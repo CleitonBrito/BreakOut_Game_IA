@@ -9,7 +9,7 @@ Click play!
 
 <img src="https://github.com/CleitonBrito/BreakOut_Game_IA/blob/master/screenshot01.jpg">
 
-Choose an level!
+Choose a level!
 
 <img src="https://github.com/CleitonBrito/BreakOut_Game_IA/blob/master/screenshot02.jpg">
 
